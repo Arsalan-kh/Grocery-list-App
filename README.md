@@ -4,11 +4,11 @@ This is a group activity.
 ## How this app work:
 -This App has funtionality to Add and clear items in grocery list.
 ## Group Member:
-Rabbia saleh
-Arsalan khan
-Mahhnoor Khan
-Mishal Iftikhar
-Khalil hussain shah
+#### Rabbia saleh
+#### Arsalan khan
+#### Mahhnoor Khan
+#### Mishal Iftikhar
+#### Khalil hussain shah
 ## Technologies used:
 HTML
 CSS
