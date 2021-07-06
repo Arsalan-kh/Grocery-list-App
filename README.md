@@ -17,6 +17,6 @@ JavaScript
 VS Code
 Browser
 ## live link:
-https://mishal284.github.io/Grocery-list-App/index.html
+https://arsalan-kh.github.io/Grocery-list-App/
 ## Repo link:
-https://github.com/mishal284/Grocery-list-App
+https://github.com/Arsalan-kh/Grocery-list-App.git
